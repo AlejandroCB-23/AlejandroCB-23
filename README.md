@@ -30,4 +30,16 @@
 
 <Br>
 
+<Br>
+<h1>Tools I use! 🛠️</h1>
+<Br>
+ 
+| ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) | ![](https://img.shields.io/badge/Java-F8981D?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![](https://img.shields.io/badge/CLIPS-000000?style=for-the-badge&logo=cloudflare&logoColor=white) | ![](https://img.shields.io/badge/Prolog-3E6A8A?style=for-the-badge&logo=prolog&logoColor=white) |
+|------------------------------------------------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)       | ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  | ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)                    | ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)            | ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+
+
+
+
+
 
