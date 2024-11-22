@@ -19,4 +19,15 @@
   <img align="center" src="https://img.shields.io/badge/alexcanas08@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
 </a></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/AlejandroCB--23-black?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+<Br>
+<Br>
+<h1>GitHub Stats! 📊</h1>
+<Br>
   
+[![Alejandro's github stats](https://github-readme-stats.vercel.app/api?username=AlejandroCB-23&show_icons=true&theme=tokyonight)](https://github.com/AlejandroCB-23/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroCB-23&layout=compact&theme=tokyonight)](https://github.com/AlejandroCB-23/github-readme-stats)
+
+<Br>
+
+
